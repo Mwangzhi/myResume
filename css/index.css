@@ -83,8 +83,8 @@ html {
     bottom: -.1rem;
     left: 1.64rem;
     z-index: 5;
-    -webkit-animation: flipInY 1s linear 0s infinite;
-    animation: flipInY 1s linear 0s infinite;
+    -webkit-animation: fadeOutUp 1s linear 0s infinite;
+    animation: fadeOutUp 1s linear 0s infinite;
 }
 
 .jianTou1 {
